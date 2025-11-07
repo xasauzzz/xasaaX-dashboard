@@ -3,7 +3,7 @@ function Home() {
     <div className="content flex-column">
       <img className="background" src="/img/backlogos.svg" alt="background" />
       <div className="title">
-        <h1>Buy, trade, and hold 350+ cryptocurrencies on Bitneko</h1>
+        <h1>Buy, trade, and hold 350+ cryptocurrencies on RaazzyX</h1>
         <img src="/img/chart.svg" alt="chart" />
       </div>
 
