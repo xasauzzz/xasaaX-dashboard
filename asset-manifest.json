@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xasaaX-dashboard/static/css/main.b8ba9168.css",
+    "main.js": "/xasaaX-dashboard/static/js/main.3d3cd9a2.js",
+    "index.html": "/xasaaX-dashboard/index.html",
+    "main.b8ba9168.css.map": "/xasaaX-dashboard/static/css/main.b8ba9168.css.map",
+    "main.3d3cd9a2.js.map": "/xasaaX-dashboard/static/js/main.3d3cd9a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ba9168.css",
+    "static/js/main.3d3cd9a2.js"
+  ]
+}
