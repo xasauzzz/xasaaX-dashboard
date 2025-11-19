@@ -11,7 +11,7 @@ function Header() {
     <header className="d-flex align-center">
       <div className={styles.logo}>
         <Link to="/">
-          <img width={180} src="/img/raazzyx-logo.svg" alt="logo" />
+          <img width={180} src="/img/raazzyx-logo.svg.png" alt="logo" />
         </Link>
       </div>
       <div className={styles.buttons}>

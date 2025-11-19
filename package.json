@@ -1,8 +1,8 @@
 {
-  "name": "raazzyX",
+  "name": "xasaaX",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://xasauzzz.github.io/xasaaX-dashboard",
   "dependencies": {
     "@metamask/sdk": "^0.2.4",
     "axios": "^1.4.0",
@@ -16,23 +16,18 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
@@ -40,9 +35,7 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^6.12.6",
-    "ajv-keywords": "^3.5.2",
-    "sass": "^1.93.3",
-    "schema-utils": "^3.3.0"
+    "gh-pages": "^6.1.1",
+    "sass": "^1.93.3"
   }
 }
